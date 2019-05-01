@@ -32,7 +32,6 @@ import com.android.incallui.audiomode.AudioModeProvider;
 import com.android.incallui.audiomode.AudioModeProvider.AudioModeListener;
 import com.android.incallui.call.CallList;
 import com.android.incallui.call.DialerCall;
-import com.android.dialer.app.settings.OtherSettingsFragment;
 import android.preference.PreferenceManager;
 
 /**
