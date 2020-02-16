@@ -16,10 +16,8 @@
   ~ limitations under the License
   -->
 <resources>
-  <string name="videocall_remote_video_off">Mae ei fideo nhw i ffwrdd</string>
-  <string name="videocall_remote_video_on">Mae ei fideo nhw ymlaen</string>
-  <string name="videocall_remotely_held">Galwad yn aros</string>
-  <string name="videocall_remotely_resumed">Galwad yn parhau</string>
-  <string name="videocall_charges_alert_dialog_description">Mae galwadau fideo a gwneir dros y rhwydwaith symudol yn defnyddio data a munudau galwadau llais. Gall fod costau am hyn.</string>
-  <string name="do_not_show_again">Peidio â dangos eto</string>
+  <string name="nearby_places">Lleoedd cyfagos</string>
+  <string name="search_location_permission">I gael manylion cyswllt llefydd gerllaw, rho ganiatâd i gael gwybod dy leoliad.</string>
+  <string name="nearby_places_allow">Caniatáu</string>
+  <string name="nearby_places_dismiss">Gwrthod</string>
 </resources>

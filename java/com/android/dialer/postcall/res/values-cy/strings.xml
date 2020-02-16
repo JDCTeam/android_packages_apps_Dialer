@@ -16,10 +16,12 @@
   ~ limitations under the License
   -->
 <resources>
-  <string name="videocall_remote_video_off">Mae ei fideo nhw i ffwrdd</string>
-  <string name="videocall_remote_video_on">Mae ei fideo nhw ymlaen</string>
-  <string name="videocall_remotely_held">Galwad yn aros</string>
-  <string name="videocall_remotely_resumed">Galwad yn parhau</string>
-  <string name="videocall_charges_alert_dialog_description">Mae galwadau fideo a gwneir dros y rhwydwaith symudol yn defnyddio data a munudau galwadau llais. Gall fod costau am hyn.</string>
-  <string name="do_not_show_again">Peidio â dangos eto</string>
+  <string name="post_call_message">Dywedwch pam eich bod wedi galw</string>
+  <string name="post_call_message_1">Mae\'n fater brys. Galwch fi nôl.</string>
+  <string name="post_call_message_2">Ffoniwch fi nôl pan gewch chi gyfle.</string>
+  <string name="post_call_message_3">Dim brys. Gallwn sgwrsio\'n hwyrach.</string>
+  <string name="post_call_add_message">Ychwanegu neges</string>
+  <string name="post_call_send_message">Anfon neges</string>
+  <string name="post_call_message_sent">Anfonwyd y neges</string>
+  <string name="view">Gweld</string>
 </resources>

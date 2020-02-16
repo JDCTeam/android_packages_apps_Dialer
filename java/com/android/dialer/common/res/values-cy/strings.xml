@@ -16,10 +16,9 @@
   ~ limitations under the License
   -->
 <resources>
-  <string name="videocall_remote_video_off">Mae ei fideo nhw i ffwrdd</string>
-  <string name="videocall_remote_video_on">Mae ei fideo nhw ymlaen</string>
-  <string name="videocall_remotely_held">Galwad yn aros</string>
-  <string name="videocall_remotely_resumed">Galwad yn parhau</string>
-  <string name="videocall_charges_alert_dialog_description">Mae galwadau fideo a gwneir dros y rhwydwaith symudol yn defnyddio data a munudau galwadau llais. Gall fod costau am hyn.</string>
-  <string name="do_not_show_again">Peidio â dangos eto</string>
+  <string name="network_name_wifi">Wi-Fi</string>
+  <string name="network_name_mobile">Symudol</string>
+  <string name="content_description_overflow">Rhagor o ddewisiadau</string>
+  <string name="snackbar_undo">DADWNEUD</string>
+  <string name="ok_got_it">Deall yn iawn</string>
 </resources>

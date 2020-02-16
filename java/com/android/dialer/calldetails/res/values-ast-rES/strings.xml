@@ -15,11 +15,13 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
   -->
-<resources>
-  <string name="videocall_remote_video_off">Mae ei fideo nhw i ffwrdd</string>
-  <string name="videocall_remote_video_on">Mae ei fideo nhw ymlaen</string>
-  <string name="videocall_remotely_held">Galwad yn aros</string>
-  <string name="videocall_remotely_resumed">Galwad yn parhau</string>
-  <string name="videocall_charges_alert_dialog_description">Mae galwadau fideo a gwneir dros y rhwydwaith symudol yn defnyddio data a munudau galwadau llais. Gall fod costau am hyn.</string>
-  <string name="do_not_show_again">Peidio â dangos eto</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Detalles de la llamada</string>
+  <string name="call_details_report_call_id">Informar de númberu imprecisu</string>
+  <string name="sent_a_photo">Unviar una semeya</string>
+  <string name="received_a_photo">Recibida una semeya</string>
+  <string name="message_in_quotes">\"<xliff:g id="message">%1$s</xliff:g>\"</string>
+  <string name="report_caller_id_dialog_title">Informar de númberu incorreutu</string>
+  <string name="report_caller_id_failed">Nun se puede informar del númberu</string>
+  <string name="report_caller_id_toast">Númberu informáu</string>
 </resources>
